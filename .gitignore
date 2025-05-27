@@ -1,7 +1,7 @@
 # Ignore all files under runs/
 runs/
 datasets/
-test_sample_images/
+test_sample/
 test_sample/video/
 __image_predictions/
 __video_predictions/
