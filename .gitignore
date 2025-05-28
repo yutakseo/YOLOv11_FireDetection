@@ -10,3 +10,4 @@ YOLOv11_FireDetection/__video_predictions/
 YOLOv11_FireDetection/*.pt
 *.pt
 **/*.pt
+results/
